@@ -1,0 +1,10 @@
+{
+	"id" : "idValue",
+	"username": "nameValue",
+	"firstName": "firstNameValue",
+	"lastName": "lastNameValue",
+	"email": "emailValue",
+	"password": "passwordValue",
+	"phone": "phoneValue",
+	"userStatus": "statusValue"
+}

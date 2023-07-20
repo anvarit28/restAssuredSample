@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-20T17:13:24Z" name="user" finished-at="2023-07-20T17:13:35Z" duration-ms="11616">
+    <groups>
+    </groups>
+    <test started-at="2023-07-20T17:13:24Z" name="APISuite" finished-at="2023-07-20T17:13:35Z" duration-ms="11616">
+      <class name="com.restAssured.pets_test.CreatePetTest">
+        <test-method signature="TC1_CreatePet()[pri:1, instance:com.restAssured.pets_test.CreatePetTest@47187f50]" started-at="2023-07-20T22:43:30Z" name="TC1_CreatePet" description="This test case creates a user" finished-at="2023-07-20T22:43:31Z" duration-ms="924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1_CreatePet -->
+        <test-method signature="TC2_CreatePet_InvalidRequest()[pri:2, instance:com.restAssured.pets_test.CreatePetTest@47187f50]" started-at="2023-07-20T22:43:31Z" name="TC2_CreatePet_InvalidRequest" description="This test case creates a user with invalid userId" finished-at="2023-07-20T22:43:32Z" duration-ms="922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2_CreatePet_InvalidRequest -->
+        <test-method signature="TC3_UpdatePet()[pri:3, instance:com.restAssured.pets_test.CreatePetTest@47187f50]" started-at="2023-07-20T22:43:32Z" name="TC3_UpdatePet" description="Update pet name and status" finished-at="2023-07-20T22:43:32Z" duration-ms="870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3_UpdatePet -->
+        <test-method signature="TC4_UpdatePetInvalidStatus()[pri:4, instance:com.restAssured.pets_test.CreatePetTest@47187f50]" started-at="2023-07-20T22:43:32Z" name="TC4_UpdatePetInvalidStatus" description="Update invalid status" finished-at="2023-07-20T22:43:33Z" duration-ms="863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4_UpdatePetInvalidStatus -->
+        <test-method signature="TC5_GetPet()[pri:5, instance:com.restAssured.pets_test.CreatePetTest@47187f50]" started-at="2023-07-20T22:43:33Z" name="TC5_GetPet" description="This test case gets available pets which is Not Found" finished-at="2023-07-20T22:43:34Z" duration-ms="1159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC5_GetPet -->
+        <test-method signature="TC6_GetPet()[pri:5, instance:com.restAssured.pets_test.CreatePetTest@47187f50]" started-at="2023-07-20T22:43:34Z" name="TC6_GetPet" description="This test case searches for an invalid status pets which returns 0 records" finished-at="2023-07-20T22:43:35Z" duration-ms="796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC6_GetPet -->
+      </class> <!-- com.restAssured.pets_test.CreatePetTest -->
+      <class name="com.restAssured.users_test.CreateUsersTest">
+        <test-method signature="TC1_CreateUser()[pri:1, instance:com.restAssured.users_test.CreateUsersTest@e3899fd]" started-at="2023-07-20T22:43:24Z" name="TC1_CreateUser" description="This test case creates a user" finished-at="2023-07-20T22:43:26Z" duration-ms="2093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1_CreateUser -->
+        <test-method signature="TC2_CreateUser_InvalidRequest()[pri:2, instance:com.restAssured.users_test.CreateUsersTest@e3899fd]" started-at="2023-07-20T22:43:26Z" name="TC2_CreateUser_InvalidRequest" description="This test case creates a user with invalid userId" finished-at="2023-07-20T22:43:27Z" duration-ms="911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2_CreateUser_InvalidRequest -->
+        <test-method signature="TC3_CreateUser_NullValue()[pri:3, instance:com.restAssured.users_test.CreateUsersTest@e3899fd]" started-at="2023-07-20T22:43:27Z" name="TC3_CreateUser_NullValue" description="This test case creates a user with null userId" finished-at="2023-07-20T22:43:27Z" duration-ms="691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3_CreateUser_NullValue -->
+        <test-method signature="TC4_UpdateUser()[pri:4, instance:com.restAssured.users_test.CreateUsersTest@e3899fd]" started-at="2023-07-20T22:43:27Z" name="TC4_UpdateUser" description="This test case creates a user" finished-at="2023-07-20T22:43:28Z" duration-ms="741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4_UpdateUser -->
+        <test-method signature="TC5_UpdateUserInvalidUserName()[pri:5, instance:com.restAssured.users_test.CreateUsersTest@e3899fd]" started-at="2023-07-20T22:43:28Z" name="TC5_UpdateUserInvalidUserName" description="This test case creates a user" finished-at="2023-07-20T22:43:29Z" duration-ms="819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC5_UpdateUserInvalidUserName -->
+        <test-method signature="TC6_GetUser()[pri:6, instance:com.restAssured.users_test.CreateUsersTest@e3899fd]" started-at="2023-07-20T22:43:29Z" name="TC6_GetUser" description="This test case creates a user" finished-at="2023-07-20T22:43:30Z" duration-ms="819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC6_GetUser -->
+      </class> <!-- com.restAssured.users_test.CreateUsersTest -->
+    </test> <!-- APISuite -->
+  </suite> <!-- user -->
+</testng-results>

@@ -1,0 +1,17 @@
+{
+	"id": "idValue",
+	"category": {
+		"id": "categoryIdValue",
+		"name": "categoryNameValue"
+	},
+	"name": "petNameValue",
+	"photoUrls": [
+		"photoUrls1Value","photoUrls2Value"
+	],
+	"tags": [{
+		"id": "tagsId1Value",
+		"name": "tagsName1Value"
+	}],
+	"status": "statusValue"
+}
+

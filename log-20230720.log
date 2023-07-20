@@ -1,0 +1,879 @@
+2023-07-20 00:34:59.170 CreateUsersTest.TC1_CreateUser:39 INFO  - 
+
+ *********In TC1_CreateUser Function *********
+2023-07-20 00:34:59.220 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********
+2023-07-20 00:35:05.406 CreateUsersTest.TC2_CreateUser_InvalidRequest:58 INFO  - 
+
+ *********In TC2_CreateUser_InvalidRequest Function *********
+2023-07-20 00:35:05.411 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********
+2023-07-20 00:35:06.269 CreateUsersTest.TC3_CreateUser_NullValue:77 INFO  - 
+
+ *********In TC3_CreateUser_NullValue Function *********
+2023-07-20 00:35:06.275 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********
+2023-07-20 00:35:07.025 CreateUsersTest.TC4_UpdateUser:97 INFO  - 
+
+ *********In TC4_UpdateUser Function *********
+2023-07-20 00:35:07.055 UserController.putUser:42 INFO  - 
+
+ *********In putUser Function *********
+2023-07-20 00:35:07.797 CreateUsersTest.TC5_UpdateUserInvalidUserName:116 INFO  - 
+
+ *********In TC5_UpdateUserInvalidUserName Function *********
+2023-07-20 09:16:38.098 CreateUsersTest.TC1_CreateUser:39 INFO  - 
+
+ *********In TC1_CreateUser Test *********
+2023-07-20 09:16:38.117 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********
+2023-07-20 09:16:40.255 CreateUsersTest.TC2_CreateUser_InvalidRequest:58 INFO  - 
+
+ *********In TC2_CreateUser_InvalidRequest Test *********
+2023-07-20 09:16:40.256 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********
+2023-07-20 09:16:40.945 CreateUsersTest.TC3_CreateUser_NullValue:77 INFO  - 
+
+ *********In TC3_CreateUser_NullValue Test *********
+2023-07-20 09:16:40.946 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********
+2023-07-20 09:16:41.639 CreateUsersTest.TC4_UpdateUser:97 INFO  - 
+
+ *********In TC4_UpdateUser Test *********
+2023-07-20 09:16:41.646 UserController.putUser:42 INFO  - 
+
+ *********In putUser Function *********
+2023-07-20 09:16:42.257 CreateUsersTest.TC5_UpdateUserInvalidUserName:116 INFO  - 
+
+ *********In TC5_UpdateUserInvalidUserName Test *********
+2023-07-20 09:16:42.257 UserController.putUser:42 INFO  - 
+
+ *********In putUser Function *********
+2023-07-20 18:23:35.111 CreateUsersTest.TC1_CreateUser:39 INFO  - 
+
+ *********In TC1_CreateUser Test *********
+2023-07-20 18:23:35.128 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********
+2023-07-20 18:23:37.560 CreateUsersTest.TC2_CreateUser_InvalidRequest:58 INFO  - 
+
+ *********In TC2_CreateUser_InvalidRequest Test *********
+2023-07-20 18:23:37.561 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********
+2023-07-20 18:23:38.366 CreateUsersTest.TC3_CreateUser_NullValue:77 INFO  - 
+
+ *********In TC3_CreateUser_NullValue Test *********
+2023-07-20 18:23:38.368 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********
+2023-07-20 18:23:39.136 CreateUsersTest.TC4_UpdateUser:97 INFO  - 
+
+ *********In TC4_UpdateUser Test *********
+2023-07-20 18:23:39.144 UserController.putUser:42 INFO  - 
+
+ *********In putUser Function *********
+2023-07-20 18:23:40.006 CreateUsersTest.TC5_UpdateUserInvalidUserName:116 INFO  - 
+
+ *********In TC5_UpdateUserInvalidUserName Test *********
+2023-07-20 18:23:40.007 UserController.putUser:42 INFO  - 
+
+ *********In putUser Function *********
+2023-07-20 18:23:40.724 CreateUsersTest.TC6_GetUser:135 INFO  - 
+
+ *********In TC6_GetUser Test *********
+2023-07-20 18:23:40.726 UserController.getUser:52 INFO  - 
+
+ *********In getUser Function *********
+2023-07-20 18:35:02.380 CreateUsersTest.TC1_CreateUser:39 INFO  - 
+
+ *********In TC1_CreateUser Test *********
+2023-07-20 18:35:02.394 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********
+2023-07-20 18:35:04.478 CreateUsersTest.TC2_CreateUser_InvalidRequest:58 INFO  - 
+
+ *********In TC2_CreateUser_InvalidRequest Test *********
+2023-07-20 18:35:04.480 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********
+2023-07-20 18:35:05.278 CreateUsersTest.TC3_CreateUser_NullValue:77 INFO  - 
+
+ *********In TC3_CreateUser_NullValue Test *********
+2023-07-20 18:35:05.279 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********
+2023-07-20 18:35:06.194 CreateUsersTest.TC4_UpdateUser:97 INFO  - 
+
+ *********In TC4_UpdateUser Test *********
+2023-07-20 18:35:06.200 UserController.putUser:42 INFO  - 
+
+ *********In putUser Function *********
+2023-07-20 18:35:06.904 CreateUsersTest.TC5_UpdateUserInvalidUserName:116 INFO  - 
+
+ *********In TC5_UpdateUserInvalidUserName Test *********
+2023-07-20 18:35:06.905 UserController.putUser:42 INFO  - 
+
+ *********In putUser Function *********
+2023-07-20 18:35:07.625 CreateUsersTest.TC6_GetUser:135 INFO  - 
+
+ *********In TC6_GetUser Test *********
+2023-07-20 18:35:07.626 UserController.getUser:52 INFO  - 
+
+ *********In getUser Function *********
+2023-07-20 18:36:15.048 CreateUsersTest.TC1_CreateUser:39 INFO  - 
+
+ *********In TC1_CreateUser Test *********
+2023-07-20 18:36:15.055 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********
+2023-07-20 18:36:17.422 CreateUsersTest.TC2_CreateUser_InvalidRequest:58 INFO  - 
+
+ *********In TC2_CreateUser_InvalidRequest Test *********
+2023-07-20 18:36:17.424 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********
+2023-07-20 18:36:18.112 CreateUsersTest.TC3_CreateUser_NullValue:77 INFO  - 
+
+ *********In TC3_CreateUser_NullValue Test *********
+2023-07-20 18:36:18.112 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********
+2023-07-20 18:36:18.996 CreateUsersTest.TC4_UpdateUser:97 INFO  - 
+
+ *********In TC4_UpdateUser Test *********
+2023-07-20 18:36:18.997 UserController.putUser:42 INFO  - 
+
+ *********In putUser Function *********
+2023-07-20 18:36:19.917 CreateUsersTest.TC5_UpdateUserInvalidUserName:116 INFO  - 
+
+ *********In TC5_UpdateUserInvalidUserName Test *********
+2023-07-20 18:36:19.918 UserController.putUser:42 INFO  - 
+
+ *********In putUser Function *********
+2023-07-20 18:36:20.838 CreateUsersTest.TC6_GetUser:135 INFO  - 
+
+ *********In TC6_GetUser Test *********
+2023-07-20 18:36:20.839 UserController.getUser:52 INFO  - 
+
+ *********In getUser Function *********
+2023-07-20 21:18:21.920 CreateUsersTest.TC1_CreateUser:40 INFO  - 
+
+ *********In TC1_CreateUser Test *********
+2023-07-20 21:18:21.943 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********
+2023-07-20 21:18:24.279 CreateUsersTest.TC2_CreateUser_InvalidRequest:59 INFO  - 
+
+ *********In TC2_CreateUser_InvalidRequest Test *********
+2023-07-20 21:18:24.281 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********
+2023-07-20 21:18:25.035 CreateUsersTest.TC3_CreateUser_NullValue:78 INFO  - 
+
+ *********In TC3_CreateUser_NullValue Test *********
+2023-07-20 21:18:25.036 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********
+2023-07-20 21:18:25.731 CreateUsersTest.TC4_UpdateUser:98 INFO  - 
+
+ *********In TC4_UpdateUser Test *********
+2023-07-20 21:18:25.739 UserController.putUser:42 INFO  - 
+
+ *********In putUser Function *********
+2023-07-20 21:18:26.486 CreateUsersTest.TC5_UpdateUserInvalidUserName:117 INFO  - 
+
+ *********In TC5_UpdateUserInvalidUserName Test *********
+2023-07-20 21:18:26.487 UserController.putUser:42 INFO  - 
+
+ *********In putUser Function *********
+2023-07-20 21:18:27.106 CreateUsersTest.TC6_GetUser:136 INFO  - 
+
+ *********In TC6_GetUser Test *********
+2023-07-20 21:18:27.109 UserController.getUser:52 INFO  - 
+
+ *********In getUser Function *********
+2023-07-20 21:19:35.036 CreatePetTest.TC1_CreatePet:39 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 21:19:35.062 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 21:32:21.624 CreatePetTest.TC1_CreatePet:39 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 21:32:21.639 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 21:40:22.383 CreatePetTest.TC1_CreatePet:39 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 21:40:22.397 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 21:41:39.290 CreatePetTest.TC1_CreatePet:39 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 21:41:39.299 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 21:43:33.214 CreatePetTest.TC1_CreatePet:39 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 21:43:33.221 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 21:45:39.978 CreatePetTest.TC1_CreatePet:39 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 21:45:39.986 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 21:55:48.740 CreatePetTest.TC1_CreatePet:39 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 21:55:48.758 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 21:55:50.985 CreatePetTest.TC2_CreatePet_InvalidRequest:58 INFO  - 
+
+ *********In TC2_CreatePet_InvalidRequest Test *********
+2023-07-20 21:55:50.986 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:06:20.292 CreatePetTest.TC1_CreatePet:40 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 22:06:20.306 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:06:22.472 CreatePetTest.TC2_CreatePet_InvalidRequest:59 INFO  - 
+
+ *********In TC2_CreatePet_InvalidRequest Test *********
+2023-07-20 22:06:22.474 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:06:23.309 CreatePetTest.TC3_UpdatePet:80 INFO  - 
+
+ *********In TC3_UpdatePet Test *********
+2023-07-20 22:06:23.311 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:06:24.176 CreatePetTest.TC4_UpdateUserInvalidStatus:99 INFO  - 
+
+ *********In TC4_UpdateUserInvalidStatus Test *********
+2023-07-20 22:06:24.177 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:07:55.489 CreatePetTest.TC1_CreatePet:40 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 22:07:55.499 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:07:57.759 CreatePetTest.TC2_CreatePet_InvalidRequest:59 INFO  - 
+
+ *********In TC2_CreatePet_InvalidRequest Test *********
+2023-07-20 22:07:57.760 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:07:58.659 CreatePetTest.TC3_UpdatePet:80 INFO  - 
+
+ *********In TC3_UpdatePet Test *********
+2023-07-20 22:07:58.661 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:07:59.533 CreatePetTest.TC4_UpdateUserInvalidStatus:99 INFO  - 
+
+ *********In TC4_UpdateUserInvalidStatus Test *********
+2023-07-20 22:07:59.534 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:11:10.356 CreatePetTest.TC1_CreatePet:40 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 22:11:10.363 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:11:12.664 CreatePetTest.TC2_CreatePet_InvalidRequest:59 INFO  - 
+
+ *********In TC2_CreatePet_InvalidRequest Test *********
+2023-07-20 22:11:12.665 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:11:13.392 CreatePetTest.TC3_UpdatePet:80 INFO  - 
+
+ *********In TC3_UpdatePet Test *********
+2023-07-20 22:11:13.394 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:11:14.195 CreatePetTest.TC4_UpdatePetInvalidStatus:99 INFO  - 
+
+ *********In TC4_UpdatePetInvalidStatus Test *********
+2023-07-20 22:11:14.196 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:11:14.933 CreatePetTest.TC5_GetPet:118 INFO  - 
+
+ *********In TC5_GetPet Test *********
+2023-07-20 22:11:14.934 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:18:01.512 CreatePetTest.TC1_CreatePet:40 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 22:18:01.520 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:18:03.666 CreatePetTest.TC2_CreatePet_InvalidRequest:59 INFO  - 
+
+ *********In TC2_CreatePet_InvalidRequest Test *********
+2023-07-20 22:18:03.667 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:18:04.722 CreatePetTest.TC3_UpdatePet:80 INFO  - 
+
+ *********In TC3_UpdatePet Test *********
+2023-07-20 22:18:04.723 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:18:05.541 CreatePetTest.TC4_UpdatePetInvalidStatus:99 INFO  - 
+
+ *********In TC4_UpdatePetInvalidStatus Test *********
+2023-07-20 22:18:05.542 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:18:06.243 CreatePetTest.TC5_GetPet:118 INFO  - 
+
+ *********In TC5_GetPet Test *********
+2023-07-20 22:18:06.244 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:18:07.166 CreatePetTest.TC6_GetPet:131 INFO  - 
+
+ *********In TC6_GetPet Test *********
+2023-07-20 22:18:07.168 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:21:17.462 CreatePetTest.TC1_CreatePet:40 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 22:21:17.476 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:21:19.603 CreatePetTest.TC2_CreatePet_InvalidRequest:59 INFO  - 
+
+ *********In TC2_CreatePet_InvalidRequest Test *********
+2023-07-20 22:21:19.605 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:21:20.402 CreatePetTest.TC3_UpdatePet:80 INFO  - 
+
+ *********In TC3_UpdatePet Test *********
+2023-07-20 22:21:20.403 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:21:21.229 CreatePetTest.TC4_UpdatePetInvalidStatus:99 INFO  - 
+
+ *********In TC4_UpdatePetInvalidStatus Test *********
+2023-07-20 22:21:21.230 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:21:22.137 CreatePetTest.TC5_GetPet:118 INFO  - 
+
+ *********In TC5_GetPet Test *********
+2023-07-20 22:21:22.138 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:21:23.783 CreatePetTest.TC6_GetPet:131 INFO  - 
+
+ *********In TC6_GetPet Test *********
+2023-07-20 22:21:23.784 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:24:25.439 CreatePetTest.TC1_CreatePet:40 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 22:24:25.446 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:24:27.766 CreatePetTest.TC2_CreatePet_InvalidRequest:59 INFO  - 
+
+ *********In TC2_CreatePet_InvalidRequest Test *********
+2023-07-20 22:24:27.767 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:24:28.463 CreatePetTest.TC3_UpdatePet:80 INFO  - 
+
+ *********In TC3_UpdatePet Test *********
+2023-07-20 22:24:28.465 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:24:29.330 CreatePetTest.TC4_UpdatePetInvalidStatus:99 INFO  - 
+
+ *********In TC4_UpdatePetInvalidStatus Test *********
+2023-07-20 22:24:29.331 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:24:30.241 CreatePetTest.TC5_GetPet:118 INFO  - 
+
+ *********In TC5_GetPet Test *********
+2023-07-20 22:24:30.242 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:24:32.053 CreatePetTest.TC6_GetPet:129 INFO  - 
+
+ *********In TC6_GetPet Test *********
+2023-07-20 22:24:32.055 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:32:10.231 CreatePetTest.TC1_CreatePet:40 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 22:32:10.238 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:32:12.598 CreatePetTest.TC2_CreatePet_InvalidRequest:59 INFO  - 
+
+ *********In TC2_CreatePet_InvalidRequest Test *********
+2023-07-20 22:32:12.599 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:32:13.264 CreatePetTest.TC3_UpdatePet:80 INFO  - 
+
+ *********In TC3_UpdatePet Test *********
+2023-07-20 22:32:13.265 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:32:13.922 CreatePetTest.TC4_UpdatePetInvalidStatus:99 INFO  - 
+
+ *********In TC4_UpdatePetInvalidStatus Test *********
+2023-07-20 22:32:13.923 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:32:14.732 CreatePetTest.TC5_GetPet:118 INFO  - 
+
+ *********In TC5_GetPet Test *********
+2023-07-20 22:32:14.733 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:32:16.212 CreatePetTest.TC6_GetPet:129 INFO  - 
+
+ *********In TC6_GetPet Test *********
+2023-07-20 22:32:16.213 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:33:10.615 CreatePetTest.TC1_CreatePet:40 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 22:33:10.622 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:33:12.718 CreatePetTest.TC2_CreatePet_InvalidRequest:59 INFO  - 
+
+ *********In TC2_CreatePet_InvalidRequest Test *********
+2023-07-20 22:33:12.719 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:33:13.415 CreatePetTest.TC3_UpdatePet:80 INFO  - 
+
+ *********In TC3_UpdatePet Test *********
+2023-07-20 22:33:13.416 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:33:14.048 CreatePetTest.TC4_UpdatePetInvalidStatus:99 INFO  - 
+
+ *********In TC4_UpdatePetInvalidStatus Test *********
+2023-07-20 22:33:14.049 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:33:14.808 CreatePetTest.TC5_GetPet:118 INFO  - 
+
+ *********In TC5_GetPet Test *********
+2023-07-20 22:33:14.810 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:33:16.113 CreatePetTest.TC6_GetPet:129 INFO  - 
+
+ *********In TC6_GetPet Test *********
+2023-07-20 22:33:16.114 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:34:00.272 CreatePetTest.TC1_CreatePet:40 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 22:34:00.279 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:34:02.483 CreatePetTest.TC2_CreatePet_InvalidRequest:59 INFO  - 
+
+ *********In TC2_CreatePet_InvalidRequest Test *********
+2023-07-20 22:34:02.484 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:34:03.176 CreatePetTest.TC3_UpdatePet:80 INFO  - 
+
+ *********In TC3_UpdatePet Test *********
+2023-07-20 22:34:03.179 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:34:04.100 CreatePetTest.TC4_UpdatePetInvalidStatus:99 INFO  - 
+
+ *********In TC4_UpdatePetInvalidStatus Test *********
+2023-07-20 22:34:04.101 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:34:04.805 CreatePetTest.TC5_GetPet:118 INFO  - 
+
+ *********In TC5_GetPet Test *********
+2023-07-20 22:34:04.806 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:34:06.313 CreatePetTest.TC6_GetPet:129 INFO  - 
+
+ *********In TC6_GetPet Test *********
+2023-07-20 22:34:06.313 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:34:22.498 CreatePetTest.TC1_CreatePet:40 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 22:34:22.507 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:34:24.640 CreatePetTest.TC2_CreatePet_InvalidRequest:59 INFO  - 
+
+ *********In TC2_CreatePet_InvalidRequest Test *********
+2023-07-20 22:34:24.642 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:34:25.498 CreatePetTest.TC3_UpdatePet:80 INFO  - 
+
+ *********In TC3_UpdatePet Test *********
+2023-07-20 22:34:25.500 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:34:26.424 CreatePetTest.TC4_UpdatePetInvalidStatus:99 INFO  - 
+
+ *********In TC4_UpdatePetInvalidStatus Test *********
+2023-07-20 22:34:26.425 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:34:27.237 CreatePetTest.TC5_GetPet:118 INFO  - 
+
+ *********In TC5_GetPet Test *********
+2023-07-20 22:34:27.238 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:34:28.321 CreatePetTest.TC6_GetPet:129 INFO  - 
+
+ *********In TC6_GetPet Test *********
+2023-07-20 22:34:28.322 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:35:08.498 CreatePetTest.TC1_CreatePet:40 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 22:35:08.504 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:35:10.612 CreatePetTest.TC2_CreatePet_InvalidRequest:59 INFO  - 
+
+ *********In TC2_CreatePet_InvalidRequest Test *********
+2023-07-20 22:35:10.614 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:35:11.381 CreatePetTest.TC3_UpdatePet:80 INFO  - 
+
+ *********In TC3_UpdatePet Test *********
+2023-07-20 22:35:11.382 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:35:12.202 CreatePetTest.TC4_UpdatePetInvalidStatus:99 INFO  - 
+
+ *********In TC4_UpdatePetInvalidStatus Test *********
+2023-07-20 22:35:12.203 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:35:12.912 CreatePetTest.TC5_GetPet:118 INFO  - 
+
+ *********In TC5_GetPet Test *********
+2023-07-20 22:35:12.914 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:35:14.091 CreatePetTest.TC6_GetPet:129 INFO  - 
+
+ *********In TC6_GetPet Test *********
+2023-07-20 22:35:14.092 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:37:33.512 CreatePetTest.TC1_CreatePet:40 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 22:37:33.527 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:37:35.685 CreatePetTest.TC2_CreatePet_InvalidRequest:59 INFO  - 
+
+ *********In TC2_CreatePet_InvalidRequest Test *********
+2023-07-20 22:37:35.686 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:37:36.370 CreatePetTest.TC3_UpdatePet:80 INFO  - 
+
+ *********In TC3_UpdatePet Test *********
+2023-07-20 22:37:36.371 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:37:37.105 CreatePetTest.TC4_UpdatePetInvalidStatus:99 INFO  - 
+
+ *********In TC4_UpdatePetInvalidStatus Test *********
+2023-07-20 22:37:37.106 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:37:37.807 CreatePetTest.TC5_GetPet:118 INFO  - 
+
+ *********In TC5_GetPet Test *********
+2023-07-20 22:37:37.808 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:37:38.973 CreatePetTest.TC6_GetPet:129 INFO  - 
+
+ *********In TC6_GetPet Test *********
+2023-07-20 22:37:38.974 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:38:05.759 CreatePetTest.TC1_CreatePet:40 INFO  - 
+
+ *********In TC1_CreatePet Test *********
+2023-07-20 22:38:05.767 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:38:08.167 CreatePetTest.TC2_CreatePet_InvalidRequest:57 INFO  - 
+
+ *********In TC2_CreatePet_InvalidRequest Test *********
+2023-07-20 22:38:08.168 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+2023-07-20 22:38:08.940 CreatePetTest.TC3_UpdatePet:76 INFO  - 
+
+ *********In TC3_UpdatePet Test *********
+2023-07-20 22:38:08.942 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:38:09.707 CreatePetTest.TC4_UpdatePetInvalidStatus:93 INFO  - 
+
+ *********In TC4_UpdatePetInvalidStatus Test *********
+2023-07-20 22:38:09.708 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********
+2023-07-20 22:38:10.401 CreatePetTest.TC5_GetPet:110 INFO  - 
+
+ *********In TC5_GetPet Test *********
+2023-07-20 22:38:10.402 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:38:11.539 CreatePetTest.TC6_GetPet:121 INFO  - 
+
+ *********In TC6_GetPet Test *********
+2023-07-20 22:38:11.540 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********
+2023-07-20 22:40:11.403 CreatePetTest.TC1_CreatePet:40 INFO  - 
+
+ *********In TC1_CreatePet Test *********\n\n
+2023-07-20 22:40:11.410 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+
+
+2023-07-20 22:40:13.655 CreatePetTest.TC2_CreatePet_InvalidRequest:57 INFO  - 
+
+ *********In TC2_CreatePet_InvalidRequest Test *********\n\n
+2023-07-20 22:40:13.656 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+
+
+2023-07-20 22:40:14.348 CreatePetTest.TC3_UpdatePet:76 INFO  - 
+
+ *********In TC3_UpdatePet Test *********\n\n
+2023-07-20 22:40:14.350 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********\n\n
+2023-07-20 22:40:15.260 CreatePetTest.TC4_UpdatePetInvalidStatus:93 INFO  - 
+
+ *********In TC4_UpdatePetInvalidStatus Test *********\n\n
+2023-07-20 22:40:15.262 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********\n\n
+2023-07-20 22:40:16.118 CreatePetTest.TC5_GetPet:110 INFO  - 
+
+ *********In TC5_GetPet Test *********\n\n
+2023-07-20 22:40:16.119 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********\n\n
+2023-07-20 22:40:17.596 CreatePetTest.TC6_GetPet:121 INFO  - 
+
+ *********In TC6_GetPet Test *********\n\n
+2023-07-20 22:40:17.597 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********\n\n
+2023-07-20 22:41:42.611 CreateUsersTest.TC1_CreateUser:40 INFO  - 
+
+ *********In TC1_CreateUser Test *********\n\n
+2023-07-20 22:41:42.626 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********\n\n
+2023-07-20 22:41:44.896 CreateUsersTest.TC2_CreateUser_InvalidRequest:59 INFO  - 
+
+ *********In TC2_CreateUser_InvalidRequest Test *********\n\n
+2023-07-20 22:41:44.897 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********\n\n
+2023-07-20 22:41:45.828 CreateUsersTest.TC3_CreateUser_NullValue:78 INFO  - 
+
+ *********In TC3_CreateUser_NullValue Test *********\n\n
+2023-07-20 22:41:45.828 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********\n\n
+2023-07-20 22:41:46.743 CreateUsersTest.TC4_UpdateUser:98 INFO  - 
+
+ *********In TC4_UpdateUser Test *********\n\n
+2023-07-20 22:41:46.749 UserController.putUser:42 INFO  - 
+
+ *********In putUser Function *********\n\n
+2023-07-20 22:41:47.561 CreateUsersTest.TC5_UpdateUserInvalidUserName:117 INFO  - 
+
+ *********In TC5_UpdateUserInvalidUserName Test *********\n\n
+2023-07-20 22:41:47.562 UserController.putUser:42 INFO  - 
+
+ *********In putUser Function *********\n\n
+2023-07-20 22:41:48.484 CreateUsersTest.TC6_GetUser:136 INFO  - 
+
+ *********In TC6_GetUser Test *********\n\n
+2023-07-20 22:41:48.487 UserController.getUser:52 INFO  - 
+
+ *********In getUser Function *********\n\n
+2023-07-20 22:41:49.223 CreatePetTest.TC1_CreatePet:40 INFO  - 
+
+ *********In TC1_CreatePet Test *********\n\n
+2023-07-20 22:41:49.225 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+
+
+2023-07-20 22:41:50.019 CreatePetTest.TC2_CreatePet_InvalidRequest:57 INFO  - 
+
+ *********In TC2_CreatePet_InvalidRequest Test *********\n\n
+2023-07-20 22:41:50.020 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+
+
+2023-07-20 22:41:50.940 CreatePetTest.TC3_UpdatePet:76 INFO  - 
+
+ *********In TC3_UpdatePet Test *********\n\n
+2023-07-20 22:41:50.942 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********\n\n
+2023-07-20 22:41:51.762 CreatePetTest.TC4_UpdatePetInvalidStatus:93 INFO  - 
+
+ *********In TC4_UpdatePetInvalidStatus Test *********\n\n
+2023-07-20 22:41:51.763 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********\n\n
+2023-07-20 22:41:52.579 CreatePetTest.TC5_GetPet:110 INFO  - 
+
+ *********In TC5_GetPet Test *********\n\n
+2023-07-20 22:41:52.581 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********\n\n
+2023-07-20 22:41:54.049 CreatePetTest.TC6_GetPet:121 INFO  - 
+
+ *********In TC6_GetPet Test *********\n\n
+2023-07-20 22:41:54.050 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********\n\n
+2023-07-20 22:43:24.099 CreateUsersTest.TC1_CreateUser:40 INFO  - 
+
+ *********In TC1_CreateUser Test *********\n\n
+2023-07-20 22:43:24.105 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********\n\n
+2023-07-20 22:43:26.184 CreateUsersTest.TC2_CreateUser_InvalidRequest:59 INFO  - 
+
+ *********In TC2_CreateUser_InvalidRequest Test *********\n\n
+2023-07-20 22:43:26.185 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********\n\n
+2023-07-20 22:43:27.095 CreateUsersTest.TC3_CreateUser_NullValue:76 INFO  - 
+
+ *********In TC3_CreateUser_NullValue Test *********\n\n
+2023-07-20 22:43:27.096 UserController.postUser:32 INFO  - 
+
+ *********In postUser Function *********\n\n
+2023-07-20 22:43:27.787 CreateUsersTest.TC4_UpdateUser:94 INFO  - 
+
+ *********In TC4_UpdateUser Test *********\n\n
+2023-07-20 22:43:27.788 UserController.putUser:42 INFO  - 
+
+ *********In putUser Function *********\n\n
+2023-07-20 22:43:28.528 CreateUsersTest.TC5_UpdateUserInvalidUserName:111 INFO  - 
+
+ *********In TC5_UpdateUserInvalidUserName Test *********\n\n
+2023-07-20 22:43:28.529 UserController.putUser:42 INFO  - 
+
+ *********In putUser Function *********\n\n
+2023-07-20 22:43:29.347 CreateUsersTest.TC6_GetUser:128 INFO  - 
+
+ *********In TC6_GetUser Test *********\n\n
+2023-07-20 22:43:29.348 UserController.getUser:52 INFO  - 
+
+ *********In getUser Function *********\n\n
+2023-07-20 22:43:30.166 CreatePetTest.TC1_CreatePet:40 INFO  - 
+
+ *********In TC1_CreatePet Test *********\n\n
+2023-07-20 22:43:30.168 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+
+
+2023-07-20 22:43:31.090 CreatePetTest.TC2_CreatePet_InvalidRequest:57 INFO  - 
+
+ *********In TC2_CreatePet_InvalidRequest Test *********\n\n
+2023-07-20 22:43:31.091 PetController.postPet:32 INFO  - 
+
+ *********In postPet Function *********
+
+
+2023-07-20 22:43:32.012 CreatePetTest.TC3_UpdatePet:76 INFO  - 
+
+ *********In TC3_UpdatePet Test *********\n\n
+2023-07-20 22:43:32.014 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********\n\n
+2023-07-20 22:43:32.881 CreatePetTest.TC4_UpdatePetInvalidStatus:93 INFO  - 
+
+ *********In TC4_UpdatePetInvalidStatus Test *********\n\n
+2023-07-20 22:43:32.883 PetController.putPet:42 INFO  - 
+
+ *********In putPet Function *********\n\n
+2023-07-20 22:43:33.745 CreatePetTest.TC5_GetPet:110 INFO  - 
+
+ *********In TC5_GetPet Test *********\n\n
+2023-07-20 22:43:33.746 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********\n\n
+2023-07-20 22:43:34.904 CreatePetTest.TC6_GetPet:121 INFO  - 
+
+ *********In TC6_GetPet Test *********\n\n
+2023-07-20 22:43:34.905 PetController.getPet:52 INFO  - 
+
+ *********In getPet Function *********\n\n

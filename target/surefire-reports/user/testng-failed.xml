@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [user]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="suiteType" value="SmokeSuite"/>
+  <test name="APISuite(failed)">
+    <classes>
+      <class name="com.restAssured.pets_test.CreatePetTest">
+        <methods>
+          <include name="TC4_UpdatePetInvalidStatus"/>
+        </methods>
+      </class> <!-- com.restAssured.pets_test.CreatePetTest -->
+    </classes>
+  </test> <!-- APISuite(failed) -->
+</suite> <!-- Failed suite [user] -->

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" verbose="1" name="user"
+	annotations="JDK" parallel="false">
+	<parameter name="suiteType" value="SmokeSuite" />
+	<test name="APISuite" preserve-order="true">
+		<classes>
+			<class name="com.restAssured.users_test.CreateUsersTest"/> 
+			<class name="com.restAssured.pets_test.CreatePetTest"/> 
+		</classes>
+	</test>
+</suite>

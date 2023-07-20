@@ -1,0 +1,139 @@
+<html>
+<head>
+<title>TestNG:  APISuite</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>APISuite</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>12/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Jul 20 22:43:24 IST 2023</td>
+</tr>
+<tr><td>Total time:</td><td>11 seconds (11616 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.restAssured.pets_test.CreatePetTest.TC1_CreatePet()'><b>TC1_CreatePet</b><br>Test class: com.restAssured.pets_test.CreatePetTest<br>Test method: This test case creates a user</td>
+<td></td>
+<td>0</td>
+<td>com.restAssured.pets_test.CreatePetTest@47187f50</td></tr>
+<tr>
+<td title='com.restAssured.users_test.CreateUsersTest.TC1_CreateUser()'><b>TC1_CreateUser</b><br>Test class: com.restAssured.users_test.CreateUsersTest<br>Test method: This test case creates a user</td>
+<td></td>
+<td>2</td>
+<td>com.restAssured.users_test.CreateUsersTest@e3899fd</td></tr>
+<tr>
+<td title='com.restAssured.pets_test.CreatePetTest.TC2_CreatePet_InvalidRequest()'><b>TC2_CreatePet_InvalidRequest</b><br>Test class: com.restAssured.pets_test.CreatePetTest<br>Test method: This test case creates a user with invalid userId</td>
+<td></td>
+<td>0</td>
+<td>com.restAssured.pets_test.CreatePetTest@47187f50</td></tr>
+<tr>
+<td title='com.restAssured.users_test.CreateUsersTest.TC2_CreateUser_InvalidRequest()'><b>TC2_CreateUser_InvalidRequest</b><br>Test class: com.restAssured.users_test.CreateUsersTest<br>Test method: This test case creates a user with invalid userId</td>
+<td></td>
+<td>0</td>
+<td>com.restAssured.users_test.CreateUsersTest@e3899fd</td></tr>
+<tr>
+<td title='com.restAssured.users_test.CreateUsersTest.TC3_CreateUser_NullValue()'><b>TC3_CreateUser_NullValue</b><br>Test class: com.restAssured.users_test.CreateUsersTest<br>Test method: This test case creates a user with null userId</td>
+<td></td>
+<td>0</td>
+<td>com.restAssured.users_test.CreateUsersTest@e3899fd</td></tr>
+<tr>
+<td title='com.restAssured.pets_test.CreatePetTest.TC3_UpdatePet()'><b>TC3_UpdatePet</b><br>Test class: com.restAssured.pets_test.CreatePetTest<br>Test method: Update pet name and status</td>
+<td></td>
+<td>0</td>
+<td>com.restAssured.pets_test.CreatePetTest@47187f50</td></tr>
+<tr>
+<td title='com.restAssured.pets_test.CreatePetTest.TC4_UpdatePetInvalidStatus()'><b>TC4_UpdatePetInvalidStatus</b><br>Test class: com.restAssured.pets_test.CreatePetTest<br>Test method: Update invalid status</td>
+<td></td>
+<td>0</td>
+<td>com.restAssured.pets_test.CreatePetTest@47187f50</td></tr>
+<tr>
+<td title='com.restAssured.users_test.CreateUsersTest.TC4_UpdateUser()'><b>TC4_UpdateUser</b><br>Test class: com.restAssured.users_test.CreateUsersTest<br>Test method: This test case creates a user</td>
+<td></td>
+<td>0</td>
+<td>com.restAssured.users_test.CreateUsersTest@e3899fd</td></tr>
+<tr>
+<td title='com.restAssured.pets_test.CreatePetTest.TC5_GetPet()'><b>TC5_GetPet</b><br>Test class: com.restAssured.pets_test.CreatePetTest<br>Test method: This test case gets available pets which is Not Found</td>
+<td></td>
+<td>1</td>
+<td>com.restAssured.pets_test.CreatePetTest@47187f50</td></tr>
+<tr>
+<td title='com.restAssured.users_test.CreateUsersTest.TC5_UpdateUserInvalidUserName()'><b>TC5_UpdateUserInvalidUserName</b><br>Test class: com.restAssured.users_test.CreateUsersTest<br>Test method: This test case creates a user</td>
+<td></td>
+<td>0</td>
+<td>com.restAssured.users_test.CreateUsersTest@e3899fd</td></tr>
+<tr>
+<td title='com.restAssured.pets_test.CreatePetTest.TC6_GetPet()'><b>TC6_GetPet</b><br>Test class: com.restAssured.pets_test.CreatePetTest<br>Test method: This test case searches for an invalid status pets which returns 0 records</td>
+<td></td>
+<td>0</td>
+<td>com.restAssured.pets_test.CreatePetTest@47187f50</td></tr>
+<tr>
+<td title='com.restAssured.users_test.CreateUsersTest.TC6_GetUser()'><b>TC6_GetUser</b><br>Test class: com.restAssured.users_test.CreateUsersTest<br>Test method: This test case creates a user</td>
+<td></td>
+<td>0</td>
+<td>com.restAssured.users_test.CreateUsersTest@e3899fd</td></tr>
+</table><p>
+</body>
+</html>
